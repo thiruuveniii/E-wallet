@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name=" " description="" >
+	<sarfile name="Wallet_010101_20230725T105942_GMT_schema.jar" order="1"/>
+	<parfile name="Wallet_010101_20230725T105942_GMT_rules.jar" order="2"/>
+</application>

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-08-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Wallet
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2023-Jul-25 04:00:00
+PRPC-Engine: 8.8.3 PRPC-8.8.3-478 ()
+Operator: author1@wallet
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: Wallet_010101_20230725T105942_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2023-Jul-25 10:59:54
+Pega-Codeset-Name: Customer
+Instance-Count: 8517
+
+Name: FileMetadata
+
